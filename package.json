@@ -1,0 +1,13 @@
+{
+    "name": "com.revivalx.ratchet",
+    "version": "0.0.1",
+    "displayName": "CordovaRatchet",
+    "cordova": {
+        "platforms": [
+            "android"
+        ]
+    },
+    "dependencies": {
+        "cordova-android": "~6.2.3"
+    }
+}
